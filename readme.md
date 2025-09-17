@@ -1,8 +1,5 @@
 # Image Blurrer - Browser Extension
 
-![Demo GIF of Image Blurrer in action]
-*(A GIF showing the extension blurring images on a popular news website would be effective here.)*
-
 Open websites are often filled with visually distracting images that pull your focus away from the content you're there to read. Image Blurrer solves this by automatically applying a soft blur to all images, creating a calmer, more text-focused browsing environment. It's the perfect tool for improving concentration while reading or for maintaining privacy during presentations and screen shares.
 
 ***
