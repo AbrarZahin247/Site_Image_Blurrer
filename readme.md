@@ -4,7 +4,7 @@ Open websites are often filled with visually distracting images that pull your f
 
 ***
 
-## ## Features
+## Features
 
 * **Automatic Blurring:** Blurs all existing images as soon as a page loads.
 * **Dynamic Content Support:** Uses a `MutationObserver` to find and blur images that are added to the page later (e.g., through infinite scroll).
@@ -13,7 +13,7 @@ Open websites are often filled with visually distracting images that pull your f
 
 ***
 
-## ## How to Install and Use
+## How to Install and Use
 
 Since this extension is not on the Chrome Web Store, you need to load it manually using "Developer mode."
 
@@ -37,7 +37,7 @@ Now, simply browse to any website, and the images will be blurred automatically.
 
 ***
 
-## ## How It Works
+## How It Works
 
 This extension uses a **Content Script** (`content.js`) that is injected into every webpage you visit.
 
@@ -47,7 +47,7 @@ This extension uses a **Content Script** (`content.js`) that is injected into ev
 
 ***
 
-## ## File Structure
+## File Structure
 
 * `manifest.json`: The core file that defines the extension's properties, permissions, and tells the browser which scripts to run.
 * `content.js`: The JavaScript file that contains all the logic for finding and blurring images.
