@@ -52,3 +52,4 @@ This extension uses a **Content Script** (`content.js`) that is injected into ev
 * `manifest.json`: The core file that defines the extension's properties, permissions, and tells the browser which scripts to run.
 * `content.js`: The JavaScript file that contains all the logic for finding and blurring images.
 * `icons/icon16.png`: The 16x16 pixel icon for the extension.
+    * *<a href="https://www.flaticon.com/free-icons/screen" title="screen icons">Screen icons created by Rita Yao - Flaticon</a>*
